@@ -1,6 +1,5 @@
 """
-Hanzhi Cao
-CSE 163 AD
+Jack W. Ma
 
 This is the first part of our project. 
 It takes in datasets that contain information about the video games
