@@ -1,6 +1,5 @@
 """
-Jack W. Ma and Hanzhi Cao
-CSE 163 AD
+Jack W. Ma 
 
 This program takes in datasets that contain information about the game sales
 with many other factors in them. It will return graphs of analyses that will
