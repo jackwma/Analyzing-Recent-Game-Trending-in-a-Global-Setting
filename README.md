@@ -15,7 +15,7 @@ main method where you initialize the read onto those datasets.
 
 * [Dataset 3](https://www.kaggle.com/gregorut/videogamesales/data)
 
-* [Dataset 3](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
+* [Dataset 4](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 
 * Libraries to install: seaborn, matplotlib, pandas, statsmodels, sklearn
 
